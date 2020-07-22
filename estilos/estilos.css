@@ -36,3 +36,14 @@ padding: 0;
     font-weight: normal;
     font-size: 0.8em;
 }
+
+#footer{
+padding: 1em;
+background-color: indigo;
+color: white;
+text-align: left;
+}
+
+#footer .span{
+    text-align: right;
+}
